@@ -1,4 +1,4 @@
-### Section 2: Introduction
+### Introduction
 
 **Introduction to Anime Review Analysis Project:**
 Our project delves into the realm of anime, leveraging reviews from platforms like MyAnimeList (MAL) and AniList to gain insights into viewer preferences. We aim to understand trends in genre popularity, the influence of voice actors and directors, and the relationship between reviews and an anime's success.
@@ -50,7 +50,7 @@ Utilizing technologies such as Python, Pandas, and TensorFlow, we'll analyze dat
 - **Final Report Production:** A comprehensive report documenting the entire process and findings was prepared.
 - **Project Review:** The project's successes and challenges were analyzed to derive lessons for future initiatives.
 
-### Section 4: Technology Description
+### Technology Description
 
 **Data Sources:**
 https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
